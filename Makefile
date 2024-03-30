@@ -13,11 +13,11 @@ ENABLE_VOX                    ?= 1
 ENABLE_ALARM                  ?= 0
 ENABLE_TX1750                 ?= 0
 ENABLE_PWRON_PASSWORD         ?= 0
-ENABLE_DTMF_CALLING           ?= 1
+ENABLE_DTMF_CALLING           ?= 0
 ENABLE_FLASHLIGHT             ?= 1
 
 # ---- CUSTOM MODS ----
-ENABLE_WELCOME_IMAGE          ?= 0
+ENABLE_WELCOME_IMAGE          ?= 1
 ENABLE_BIG_FREQ               ?= 1
 ENABLE_SMALL_BOLD             ?= 1
 ENABLE_CUSTOM_MENU_LAYOUT     ?= 1
